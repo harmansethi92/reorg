@@ -1,7 +1,6 @@
 ## Description
-This Case Study is based upon Spear Phishing Campaigns.
+This Case Study is based upon Spear Phishing Campaigns. It has a powerpoint presentation which consists of following topics:
 
-It consists of following topics:
 1. What is Spear Phishing? 
 2. How to identify Spear phishing campaigns?
 3. Danger/impact of these campaigns?
