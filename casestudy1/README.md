@@ -37,6 +37,8 @@ This Case Study consists 3 PHP Services and a MYSQL database all running on Dock
 ## Setup
 Make sure docker and docker-compose is installed on your local machine.
 
+Based on your OS you might have to upgrade pyopenssl and change docker-compose to version 2
+
 ## Execution
 You need to run the docker-compose file in the casestudy1 directory.
 
