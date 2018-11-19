@@ -53,3 +53,7 @@ $ docker-compose up
 2. The php service2 is served via http://localhost:8081
 
 3. The php service3 is served via http://localhost:8082
+
+## Things to further look into
+
+To make the applications more secure database secrets can be setup in AWS secrets manager, hashicorp vault or Kubernetes secrets. 
